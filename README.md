@@ -39,7 +39,7 @@
 <p> 
 
 <div align="center">
-  :heart_eyes: I hope u liked my readme page! See u soon :D!
+  :heart: I hope u liked my readme page! See u soon :D!
  <br/>
   &copy; 2022 Mohamed Bourarach
 </div>
