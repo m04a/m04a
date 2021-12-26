@@ -35,7 +35,9 @@
   <a href="mailto:mohamedbourarach@gmail.com" >
     <img align="center" alt="m04a | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-
+  <a href="www.linkedin.com/in/mohamed-bourarach" >
+    <img align="center" alt="m04a | Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
