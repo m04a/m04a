@@ -6,7 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Mohamed Bourarach** <img src="https://user-images.githubusercontent.com/74925932/147153187-233508a4-512e-48d0-afa7-e2f0503605d5.gif" width="350" height="300" align="right"/>
+- :credit_card: My full name is **Mohamed Bourarach** <img src="https://s10.gifyu.com/images/ezgif.com-gif-maker53e4f8ac19491ee4.giff" width="350" height="300" align="right"/>
 - :school: Currently coursing my 2rd year student at **IES Cendrassos**
 - :books: My major is **Software Engineering**
 - :earth_africa: Currently living in **Girona, Spain**
